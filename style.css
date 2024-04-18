@@ -7,29 +7,30 @@
 
 header {
     background-color: #374bbe;
-    color: white;
+    color: black;
     }
 
 .cabecalho-imagem {
-    width: 80%;
+    width: 20%;
  }
 
 .cabecalho {
-    background-color: #383d58;
-    color: white;
+    background-color: white;
+    color: black;
     display: flex;
     justify-content: space-around;
  }
 
 .item {
-    color: white;
+    color: black;
     display: inline-block;
     margin: 0 16px;
  }
 
  .principal {
-    background-image: linear-gradient(#383D58, black);
-    color: white;
+    background-image: linear-gradient(white, #383D58, black);
+    color: black;
+    display:flex;
  }
 
  .principal-titulo {
@@ -38,8 +39,8 @@ header {
  }
 
  .principal-conteudo {
-    width: 35%;
-    display: flex;
+    width: 55%;
+   /* display: flex;*/
     justify-content: center;
     align-items: center;
     padding: 24px;
@@ -51,4 +52,9 @@ header {
 
  }
 
+.principal-texto-dois {
+
+    color: white;
+
+}
  

@@ -27,23 +27,12 @@ header {
     margin: 0 16px;
  }
 
- .titulo-principal{
+ .titulo-principal {
     padding: 24px;
 
  }
 
- .img-principal{
-    width: 20%;
-
- }
-
- .principal{
-    background-image: linear-gradient(#383D58, black);
-    color: white;
-    display: flex;
- }
- 
- .principal-conteudo{
+ .principal-conteudo {
     width: 35%;
     display: flex;
     justify-content: center;
@@ -51,4 +40,17 @@ header {
     padding: 24px;
 
  }
+ 
+ .img-principal {
+    width: 20%;
+
+ }
+
+ .principal {
+    background-image: linear-gradient(#383D58, black);
+    color: white;
+    display: flex;
+ }
+ 
+
  

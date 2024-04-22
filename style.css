@@ -28,7 +28,7 @@ header {
  }
 
  .principal {
-    background-image: linear-gradient(rgb(19, 80, 211), white, black);
+    background-image: linear-gradient(rgb(19, 80, 211), black);
     color: black;
     display:flex;
  }

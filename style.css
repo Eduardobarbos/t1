@@ -32,7 +32,7 @@ header {
  }
 
  .principal {
-    background-image: linear-gradient(rgb(19, 80, 211), black);
+    background-image: linear-gradient(rgb(19, 80, 211), white);
     color: black;
     display:flex;
  }
@@ -58,6 +58,6 @@ header {
 
 .principal-texto-dois {
 
-    color: white;
+    color: black;
 }
  

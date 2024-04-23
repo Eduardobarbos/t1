@@ -26,14 +26,14 @@ header {
 }
 
 .item {
-    color: rgb(0, 0, 0); /* Texto branco */
+    color: white; /* Texto branco */
     display: inline-block;
     margin: 0 16px;
 }
 
 .principal {
-    background-image: linear-gradient(to right, #006400, #ffffff); /* Degradê do Coritiba Green ao Azul */
-    color: rgb(0, 0, 0); /* Texto branco */
+    background-image: linear-gradient(to bottom, #006400, #ffffff); /* Degradê do Coritiba Green ao Branco */
+    color: black; /* Texto preto */
     display: flex;
 }
 
@@ -53,5 +53,5 @@ header {
 }
 
 .principal-texto-dois {
-    color: rgb(0, 0, 0); /* Texto branco */
+    color: black; /* Texto preto */
 }

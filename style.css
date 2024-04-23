@@ -5,6 +5,10 @@
    justify-content: space-around;
 }
 
+body {
+   font-family: "Oswald", sans-serif;
+}
+
 header {
     background-color: #374bbe;
     color: black;

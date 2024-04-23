@@ -32,8 +32,8 @@ header {
 }
 
 .principal {
-    background-color: white; /* Fundo branco */
-    color: black; /* Texto preto */
+    background-image: linear-gradient(to right, #006400, #374bbe); /* Degradê do Coritiba Green ao Azul */
+    color: white; /* Texto branco */
     display: flex;
 }
 
@@ -53,5 +53,5 @@ header {
 }
 
 .principal-texto-dois {
-    color: black; /* Texto preto */
+    color: white; /* Texto branco */
 }

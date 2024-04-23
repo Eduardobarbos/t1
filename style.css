@@ -1,4 +1,4 @@
-*{
+* {
    margin: 0;
    padding: 24px 0;
    font-size: 24px;
@@ -10,54 +10,48 @@ body {
 }
 
 header {
-    background-color: #374bbe;
-    color: black;
-    }
+    background-color: #006400; /* Coritiba Green */
+    color: white; /* Texto branco */
+}
 
 .cabecalho-imagem {
     width: 20%;
  }
 
 .cabecalho {
-    background-color: rgb(19, 80, 211);
-    color: black;
+    background-color: #006400; /* Coritiba Green */
+    color: white; /* Texto branco */
     display: flex;
     justify-content: space-around;
- }
+}
 
 .item {
-    color: black;
+    color: white; /* Texto branco */
     display: inline-block;
     margin: 0 16px;
- }
+}
 
- .principal {
-    background-image: linear-gradient(rgb(19, 80, 211), white);
-    color: black;
-    display:flex;
- }
+.principal {
+    background-color: white; /* Fundo branco */
+    color: black; /* Texto preto */
+    display: flex;
+}
 
- .principal-titulo {
+.principal-titulo {
     padding: 24px;
+}
 
- }
-
- .principal-conteudo {
+.principal-conteudo {
     width: 55%;
-   /* display: flex;*/
     justify-content: center;
     align-items: center;
     padding: 24px;
+}
 
- }
-
- .principal-img {
+.principal-img {
     width: 15%;
-
- }
+}
 
 .principal-texto-dois {
-
-    color: black;
+    color: black; /* Texto preto */
 }
- 
